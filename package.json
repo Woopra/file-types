@@ -1,0 +1,7 @@
+{
+  "name": "@woopra/file-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.jsm",
+  "license": "MIT"
+}
